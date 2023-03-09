@@ -1,0 +1,5 @@
+unnamed package
+fr.ensibs.ecommerce.bean
+fr.ensibs.ecommerce.entity
+fr.ensibs.ecommerce.session
+fr.ensibs.ecommerce.utils.cart

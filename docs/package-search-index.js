@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.ensibs.ecommerce.bean"},{"l":"fr.ensibs.ecommerce.entity"},{"l":"fr.ensibs.ecommerce.session"},{"l":"fr.ensibs.ecommerce.utils.cart"}];updateSearchResults();
